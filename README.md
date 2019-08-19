@@ -1,6 +1,5 @@
 # totalizer
 
-
 1. Clone repositories
 2. Navigate to project folder and install composer dependencies (Composer required!)
 composer install
